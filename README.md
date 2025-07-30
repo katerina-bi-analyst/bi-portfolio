@@ -1,6 +1,6 @@
 # Sales Dashboard (Power BI)
 
-Interactive sales analytics report created for a test assignment. The report interface is in Russian, but the logic and metrics are universal.
+Interactive sales analytics report. The report interface is in Russian, but the logic and metrics are universal.
 
 ## Tools & Technologies:
 - Power BI Desktop
